@@ -1,8 +1,4 @@
-'''
-Created on Jan 29, 2015
 
-@author: zhimin
-'''
 import json
 import logging
 import datetime
